@@ -1,10 +1,12 @@
+![Banner](./banner.png)
+
 # Hi, I'm Habil 👋
 
 Informatics Engineering student exploring everything from databases to networking, web development to machine learning.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Student-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/University-Islam%20Nusantara%20Bandung-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/University-Hang%20Tuah%20Pekanbaru-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Backend%20Development-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently%20learning-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
 </p>
@@ -45,3 +47,4 @@ Informatics Engineering student exploring everything from databases to networkin
 - 📧 Email: habilmuha14@gmail.com
 
 ---
+<sub>Replace `YOUR_USERNAME`, email, and LinkedIn link with your own details before pushing to GitHub.</sub>

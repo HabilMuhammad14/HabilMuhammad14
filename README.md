@@ -6,7 +6,7 @@ Informatics Engineering student exploring everything from databases to networkin
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Student-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Universitas-Islam%20Nusantara%20Pekanbaru-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Universitas-Islam%20Nusantara%20Bandung-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Web%20%26%20Backend%20Development-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently%20learning-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
 </p>

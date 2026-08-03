@@ -1,4 +1,4 @@
-![Banner](./Forest and Crows Pixel Art Background 161.gif)
+![Banner](./Banner.gif)
 
 # Hi, I'm Habil 👋
 

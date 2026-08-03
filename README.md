@@ -1,20 +1,20 @@
-# Halo, saya Habil 👋
+# Hi, I'm Habil 👋
 
-Mahasiswa Teknik Informatika yang lagi seru-serunya belajar dari database sampai jaringan, dari web sampai machine learning.
+Informatics Engineering student exploring everything from databases to networking, web development to machine learning.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Mahasiswa-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kampus-Universitas%20Islam%20Nusantara-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fokus-Web%20%26%20Backend%20Development-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sedang%20belajar-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Student-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/University-Hang%20Tuah%20Pekanbaru-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Backend%20Development-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently%20learning-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
 </p>
 
-## 🎓 Tentang Saya
+## 🎓 About Me
 
-- 📚 Mahasiswa Teknik Informatika, Universitas Hang Tuah Pekanbaru
-- 💻 Mata kuliah yang lagi dijalani: Perancangan Sistem Informasi, Jaringan Komputer, Basis Data, Data Mining, Kriptografi
-- 🌱 Lagi belajar: Flutter, Machine Learning, Laravel lanjutan
-- 🔭 Suka belajar dengan contoh praktis dan data nyata, bukan cuma teori
+- 📚 Informatics Engineering student at Universitas Hang Tuah Pekanbaru
+- 💻 Current coursework: Information Systems Design, Computer Networks, Databases, Data Mining, Cryptography
+- 🌱 Currently learning: Flutter, Machine Learning, advanced Laravel
+- 🔭 I prefer learning through practical examples with real data over pure theory
 
 ## 🛠️ Tech Stack
 
@@ -28,29 +28,29 @@ Mahasiswa Teknik Informatika yang lagi seru-serunya belajar dari database sampai
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Lainnya**
+**Other**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square)
 
-## 📂 Beberapa Project
+## 📂 Some Projects
 
-- **Task Manager** — Aplikasi manajemen tugas berbasis Laravel dengan role-based access
-- **Library Management System** — Sistem peminjaman buku dengan Laravel
-- **Simple Online Store** *(sedang dikembangkan)* — Toko online sederhana berbasis Laravel
-- **Praktikum Jaringan** — Konfigurasi VLAN, Inter-VLAN Routing, DHCP, dan ACL untuk topologi Smart Hotel
+- **Task Manager** — Laravel-based task management app with role-based access control
+- **Library Management System** — Book lending system built with Laravel
+- **Simple Online Store** *(in progress)* — A simple Laravel-based online store
+- **Network Practicals** — VLAN, Inter-VLAN Routing, DHCP, and ACL configuration for a Smart Hotel topology
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HabilMuhammad14&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabilMuhammad14&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
 </p>
 
-## 📫 Kontak
+## 📫 Contact
 
 - 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/username-kamu](https://linkedin.com)
+- 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com)
 
 ---
-<sub>Ganti `USERNAME_KAMU`, email, dan link LinkedIn dengan data kamu sebelum di-push ke GitHub.</sub>
+<sub>Replace `YOUR_USERNAME`, email, and LinkedIn link with your own details before pushing to GitHub.</sub>

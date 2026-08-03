@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./Forest and Crows Pixel Art Background 161.gif)
 
 # Hi, I'm Habil 👋
 
@@ -11,7 +11,7 @@ Informatics Engineering student exploring everything from databases to networkin
   <img src="https://img.shields.io/badge/Currently%20learning-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
 </p>
 
----
+--
 
 ## 🎓 About Me
 
@@ -20,7 +20,7 @@ Informatics Engineering student exploring everything from databases to networkin
 - 🌱 Currently learning: Flutter, Machine Learning, advanced Laravel
 - 🔭 I prefer learning through practical examples with real data over pure theory
 
----
+--
 
 ## 🛠️ Tech Stack
 
@@ -64,7 +64,7 @@ Informatics Engineering student exploring everything from databases to networkin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square)
 
----
+--
 
 ## 📂 Some Projects
 
@@ -73,7 +73,7 @@ Informatics Engineering student exploring everything from databases to networkin
 - **Simple Online Store** *(in progress)* — A simple Laravel-based online store
 - **Network Practicals** — VLAN, Inter-VLAN Routing, DHCP, and ACL configuration for a Smart Hotel topology
 
----
+--
 
 ## 🔥 GitHub Streak
 
@@ -81,7 +81,7 @@ Informatics Engineering student exploring everything from databases to networkin
   <img src="https://streak-stats.demolab.com?user=HabilMuhammad14&theme=default" />
 </p>
 
----
+--
 
 ## 📫 Contact
 

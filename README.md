@@ -43,8 +43,8 @@ Mahasiswa Teknik Informatika yang lagi seru-serunya belajar dari database sampai
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HabilMuhammad14&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HabilMuhammad14&layout=compact" />
 </p>
 
 ## 📫 Kontak

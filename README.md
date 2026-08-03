@@ -1,102 +1,61 @@
-# Hi, I'm Habil 👋
-
 ![Banner](./banner.png)
+
+# Hi, I'm Habil 👋
 
 Informatics Engineering student exploring everything from databases to networking, web development to machine learning.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Student-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Universitas-Islam%20Nusantara%20Bandung-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development%20%26%20Data%20Science-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/University-Hang%20Tuah%20Pekanbaru-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Backend%20Development-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Currently%20learning-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
 </p>
 
----
-
 ## 🎓 About Me
 
-- 📚 Informatics Engineering student at **Universitas Islam Nusantara Bandung**
-- 💻 Learning and exploring **Software Development, Data Science, and Computer Networks**
-- 🌱 Currently learning: **Flutter, Machine Learning, and Advanced Laravel**
-- 🔭 I enjoy learning through practical projects and real-world datasets rather than only focusing on theory
-
----
+- 📚 Informatics Engineering student at Universitas Hang Tuah Pekanbaru
+- 💻 Current coursework: Information Systems Design, Computer Networks, Databases, Data Mining, Cryptography
+- 🌱 Currently learning: Flutter, Machine Learning, advanced Laravel
+- 🔭 I prefer learning through practical examples with real data over pure theory
 
 ## 🛠️ Tech Stack
 
-### 🌐 Web & Backend
-
+**Web & Backend**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### 📊 Data Science & Machine Learning
+**Database**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+**Data Science**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-3C873A?style=flat-square&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Sweetviz](https://img.shields.io/badge/Sweetviz-EDA_Report-FF69B4?style=flat-square&logo=python&logoColor=white)
-![YData Profiling](https://img.shields.io/badge/YData_Profiling-Data_Profile-00A98F?style=flat-square&logo=python&logoColor=white)
 
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### 🔧 Other Tools & Technologies
-
+**Other**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
----
 
 ## 📂 Some Projects
 
-- **Task Manager**  
-  Laravel-based task management application with role-based access control.
+- **Task Manager** — Laravel-based task management app with role-based access control
+- **Library Management System** — Book lending system built with Laravel
+- **Simple Online Store** *(in progress)* — A simple Laravel-based online store
+- **Network Practicals** — VLAN, Inter-VLAN Routing, DHCP, and ACL configuration for a Smart Hotel topology
 
-- **Library Management System**  
-  Book lending management system built using Laravel.
+## 🔥 GitHub Streak
 
-- **Simple Online Store** *(In Progress)*  
-  A simple Laravel-based online store application.
-
-- **Network Practicals**  
-  Configuration and simulation of VLAN, Inter-VLAN Routing, DHCP, and ACL using Cisco Packet Tracer.
-
-- **Data Science Projects**  
-  Data analysis, visualization, and machine learning experiments using Python.
-
----
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=HabilMuhammad14&theme=default" />
+</p>
 
 ## 📫 Contact
 
-<p align="left">
-
-<a href="mailto:habilmuha14@gmail.com">
-<img src="https://img.shields.io/badge/Email-habilmuha14%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/habil-muhammad-493a94311">
-<img src="https://img.shields.io/badge/LinkedIn-Habil%20Muhammad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
+- 📧 Email: habilmuha14@gmail.com
 
 ---
-
-⭐ Feel free to connect with me for collaboration, discussion, or sharing knowledge about **Software Development, Data Science, and Technology.**

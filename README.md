@@ -31,7 +31,11 @@ Informatics Engineering student exploring everything from databases to networkin
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3C873A?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Sweetviz](https://img.shields.io/badge/Sweetviz-EDA_Report-FF69B4?style=flat-square&logo=python&logoColor=white)
+![YData Profiling](https://img.shields.io/badge/YData_Profiling-Data_Profile-00A98F?style=flat-square&logo=python&logoColor=white)
 **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)

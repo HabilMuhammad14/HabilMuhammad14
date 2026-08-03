@@ -1,73 +1,56 @@
-```markdown
-# Hi, I'm Habil 👋
+# Halo, saya Habil 👋
 
-Computer Science student passionate about software development, databases, networking, and machine learning.
+Mahasiswa Teknik Informatika yang lagi seru-serunya belajar dari database sampai jaringan, dari web sampai machine learning.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Computer%20Science%20Student-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/University-Hang%20Tuah%20Pekanbaru-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Backend%20Development-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Mahasiswa-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kampus-Universitas%20Islam%20Nusantara-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fokus-Web%20%26%20Backend%20Development-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Sedang%20belajar-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
 </p>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=3B82F6&width=500&lines=Computer+Science+Student;Backend+Developer;Flutter+Learner;Machine+Learning+Enthusiast" />
-</p>
+## 🎓 Tentang Saya
 
-## 🎓 About Me
-
-- 🎓 Computer Science student at **Hang Tuah Pekanbaru University**
-- 📚 Currently studying Information Systems Design, Computer Networks, Databases, Data Mining, and Cryptography
-- 🌱 Currently learning **Flutter**, **Machine Learning**, and advanced **Laravel**
-- 💡 I enjoy building practical projects and learning through real-world case studies
+- 📚 Mahasiswa Teknik Informatika, Universitas Hang Tuah Pekanbaru
+- 💻 Mata kuliah yang lagi dijalani: Perancangan Sistem Informasi, Jaringan Komputer, Basis Data, Data Mining, Kriptografi
+- 🌱 Lagi belajar: Flutter, Machine Learning, Laravel lanjutan
+- 🔭 Suka belajar dengan contoh praktis dan data nyata, bukan cuma teori
 
 ## 🛠️ Tech Stack
 
-### Web & Backend
+**Web & Backend**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### Database
+**Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Other Technologies
+**Lainnya**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square)
 
----
+## 📂 Beberapa Project
 
-## 🚀 Featured Projects
-
-- 📋 **Task Manager** — Laravel-based task management system with role-based access control.
-- 📚 **Library Management System** — A web application for managing book borrowing and returns.
-- 🛒 **Simple Online Store** *(In Progress)* — An e-commerce application built with Laravel.
-- 🌐 **Networking Lab Projects** — VLAN, Inter-VLAN Routing, DHCP, ACL, and Smart Hotel network topology using Cisco Packet Tracer.
-
----
+- **Task Manager** — Aplikasi manajemen tugas berbasis Laravel dengan role-based access
+- **Library Management System** — Sistem peminjaman buku dengan Laravel
+- **Simple Online Store** *(sedang dikembangkan)* — Toko online sederhana berbasis Laravel
+- **Praktikum Jaringan** — Konfigurasi VLAN, Inter-VLAN Routing, DHCP, dan ACL untuk topologi Smart Hotel
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+## 📫 Kontak
+
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [linkedin.com/in/username-kamu](https://linkedin.com)
 
 ---
-
-## 📫 Connect with Me
-
-- 📧 Email: habilmuha14@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-
----
-
-> *"Learning by building, improving by practicing."* 🚀
-```
+<sub>Ganti `USERNAME_KAMU`, email, dan link LinkedIn dengan data kamu sebelum di-push ke GitHub.</sub>

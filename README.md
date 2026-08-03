@@ -2,7 +2,7 @@
 
 # Hi, I'm Habil 👋
 
-Informatics Engineering student exploring everything from databases to networking, web development to machine learning.
+Informatics Engineering student who believes strong fundamentals come before flashy code
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Student-blue?style=flat-square" />
@@ -15,7 +15,7 @@ Informatics Engineering student exploring everything from databases to networkin
 ## 🎓 About Me
 
 - 📚 Informatics Engineering student at Universitas Islam Nusantara
-- 💻 Current coursework: Information Systems Design, Computer Networks, Databases, Data Mining, Cryptography
+- 🎯 Goal: to master Web Development, Mobile Development, and Data Science, along with English proficiency by graduation — with Machine Learning as a bonus skill
 - 🌱 Currently learning: Flutter, Machine Learning, advanced Laravel
 - 🔭 I prefer learning through practical examples with real data over pure theory
 
@@ -82,7 +82,7 @@ Informatics Engineering student exploring everything from databases to networkin
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=HabilMuhammad14&theme=default" />
 </p>
 
 

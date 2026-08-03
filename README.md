@@ -11,7 +11,6 @@ Informatics Engineering student exploring everything from databases to networkin
   <img src="https://img.shields.io/badge/Currently%20learning-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
 </p>
 
-<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 🎓 About Me
 
@@ -20,7 +19,6 @@ Informatics Engineering student exploring everything from databases to networkin
 - 🌱 Currently learning: Flutter, Machine Learning, advanced Laravel
 - 🔭 I prefer learning through practical examples with real data over pure theory
 
-<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 🛠️ Tech Stack
 
@@ -72,7 +70,6 @@ Informatics Engineering student exploring everything from databases to networkin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square)
 
-<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 📂 Some Projects
 
@@ -81,7 +78,6 @@ Informatics Engineering student exploring everything from databases to networkin
 - **Simple Online Store** *(in progress)* — A simple Laravel-based online store
 - **Network Practicals** — VLAN, Inter-VLAN Routing, DHCP, and ACL configuration for a Smart Hotel topology
 
-<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 🔥 GitHub Streak
 
@@ -89,7 +85,6 @@ Informatics Engineering student exploring everything from databases to networkin
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" />
 </p>
 
-<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 📫 Contact
 

@@ -17,8 +17,7 @@ Informatics Engineering student who believes strong fundamentals come before fla
 - 📚 Informatics Engineering student at Universitas Islam Nusantara
 - 🎯 Goal: to master Web Development, Mobile Development, and Data Science, along with English proficiency by graduation — with Machine Learning as a bonus skill
 - 🌱 Currently learning: Flutter, Machine Learning, advanced Laravel
-- 🔭 I prefer learning through practical examples with real data over pure theory
-
+- 🔭 I prefer building a strong theoretical foundation before applying it through practical projects.
 
 ## 🛠️ Tech Stack
 
@@ -88,6 +87,16 @@ Informatics Engineering student who believes strong fundamentals come before fla
 
 ## 📫 Contact
 
-- 📧 Email: habilmuha14@gmail.com
+<a href="mailto:habilmuha14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> https://mailto:habilmuha14@gmail.com
+
+<a href="https://www.linkedin.com/in/habil-muhammad14">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> https://www.linkedin.com/in/habil-muhammad14
+
+<a href="https://www.instagram.com/habil_muhammad14?igsh=eHcwcGc2Z291MW5v">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a> https://www.instagram.com/habil_muhammad14?igsh=eHcwcGc2Z291MW5v
 
 <hr style="border: none; height: 1px; background-color: #444;">

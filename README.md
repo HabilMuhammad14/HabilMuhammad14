@@ -1,4 +1,4 @@
-![Banner](./Banner.gif)
+![Banner](./banner.png)
 
 # Hi, I'm Habil 👋
 
@@ -11,7 +11,7 @@ Informatics Engineering student exploring everything from databases to networkin
   <img src="https://img.shields.io/badge/Currently%20learning-Flutter%20%26%20Machine%20Learning-9cf?style=flat-square" />
 </p>
 
---
+<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 🎓 About Me
 
@@ -20,7 +20,7 @@ Informatics Engineering student exploring everything from databases to networkin
 - 🌱 Currently learning: Flutter, Machine Learning, advanced Laravel
 - 🔭 I prefer learning through practical examples with real data over pure theory
 
---
+<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +54,11 @@ Informatics Engineering student exploring everything from databases to networkin
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=flat-square&logo=python&logoColor=white)
+![Sweetviz](https://img.shields.io/badge/Sweetviz-FF6F00?style=flat-square)
+![YData Profiling](https://img.shields.io/badge/YData%20Profiling-1F8A70?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
@@ -64,7 +69,7 @@ Informatics Engineering student exploring everything from databases to networkin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Networking-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square)
 
---
+<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 📂 Some Projects
 
@@ -73,17 +78,20 @@ Informatics Engineering student exploring everything from databases to networkin
 - **Simple Online Store** *(in progress)* — A simple Laravel-based online store
 - **Network Practicals** — VLAN, Inter-VLAN Routing, DHCP, and ACL configuration for a Smart Hotel topology
 
---
+<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HabilMuhammad14&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" />
 </p>
 
---
+<hr style="border: none; height: 1px; background-color: #444;">
 
 ## 📫 Contact
 
-- 📧 Email: habilmuha14@gmail.com
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com)
+
 ---
+<sub>Replace `YOUR_USERNAME`, email, and LinkedIn link with your own details before pushing to GitHub.</sub>

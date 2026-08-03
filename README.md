@@ -45,6 +45,4 @@ Informatics Engineering student exploring everything from databases to networkin
 ## 📫 Contact
 
 - 📧 Email: habilmuha14@gmail.com
-
 ---
-<sub>Replace `YOUR_USERNAME`, email, and LinkedIn link with your own details before pushing to GitHub.</sub>

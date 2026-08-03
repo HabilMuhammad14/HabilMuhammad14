@@ -13,7 +13,7 @@ Informatics Engineering student exploring everything from databases to networkin
 
 ## 🎓 About Me
 
-- 📚 Informatics Engineering student at Universitas Hang Tuah Pekanbaru
+- 📚 Informatics Engineering student at Universitas Islam Nusantara Bandung
 - 💻 Current coursework: Information Systems Design, Computer Networks, Databases, Data Mining, Cryptography
 - 🌱 Currently learning: Flutter, Machine Learning, advanced Laravel
 - 🔭 I prefer learning through practical examples with real data over pure theory

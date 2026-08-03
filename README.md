@@ -62,10 +62,6 @@ Informatics Engineering student exploring everything from databases to networkin
     <img src="https://img.shields.io/badge/LinkedIn-Habil%20Muhammad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-📧 **Email:** habilmuha14@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/habil-muhammad](https://www.linkedin.com/in/habil-muhammad-493a94311)
-
 ---
 
 ⭐ Feel free to connect with me for collaboration, discussion, or sharing knowledge about **Software Development, Data Science, and Technology.**---

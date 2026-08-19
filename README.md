@@ -77,10 +77,10 @@ Informatics Engineering student who believes strong fundamentals come before fla
 - **Simple Online Store** *(in progress)* — A simple Laravel-based online store
 - **Network Practicals** — VLAN, Inter-VLAN Routing, DHCP, and ACL configuration for a Smart Hotel topology
 
-## 📊 GitHub Stats
+## 🐍 Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HabilMuhammad14&show_icons=true&theme=default" />
+  <img src="https://raw.githubusercontent.com/HabilMuhammad14/HabilMuhammad14/output/github-contribution-snake.svg" />
 </p>
 
 

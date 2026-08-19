@@ -78,10 +78,10 @@ Informatics Engineering student who believes strong fundamentals come before fla
 - **Network Practicals** — VLAN, Inter-VLAN Routing, DHCP, and ACL configuration for a Smart Hotel topology
 
 
-## 🔥 GitHub Streak
+## 🚀 My Mindset
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HabilMuhammad14&theme=default" />
+  <img src="./mindset.gif" width="500" />
 </p>
 
 

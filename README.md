@@ -77,12 +77,6 @@ Informatics Engineering student who believes strong fundamentals come before fla
 - **Simple Online Store** *(in progress)* — A simple Laravel-based online store
 - **Network Practicals** — VLAN, Inter-VLAN Routing, DHCP, and ACL configuration for a Smart Hotel topology
 
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HabilMuhammad14/HabilMuhammad14/output/github-contribution-snake.svg" />
-</p>
-
 
 ## 📫 Contact
 <img src="https://cdn.simpleicons.org/gmail" width="18"/> **Email:** `habilmuha14@gmail.com`  
